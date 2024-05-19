@@ -4,6 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
+@font-face {
+  font-family: Lora;
+  src: url(../src/fonts/Lora/Lora-Italic-VariableFont_wght.ttf);
+}
 
 .logo {
   height: 6em;
